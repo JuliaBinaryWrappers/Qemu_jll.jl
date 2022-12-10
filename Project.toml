@@ -1,6 +1,6 @@
 name = "Qemu_jll"
 uuid = "72aeabae-b714-56e8-bb55-1d7ed6f48f02"
-version = "6.2.0+0"
+version = "7.1.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

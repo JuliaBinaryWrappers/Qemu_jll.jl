@@ -1,60 +1,60 @@
 [[Qemu]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b00c8cf4d2b315993f6f686ba356b57d01c4de9"
+git-tree-sha1 = "a011fc98a4df6094fd8742ff854419f2ca680d5c"
 libc = "glibc"
 os = "linux"
 
     [[Qemu.download]]
-    sha256 = "fff2304be3fbf109f6e03918476a4bbf66ef2b3dc061f9e478686a6f32c5c79d"
-    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v6.2.0+0/Qemu.v6.2.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "1a06df685f54f84e30bbc9555118127d5fd2206b5187b70157142bc89cdee9b3"
+    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v7.1.0+0/Qemu.v7.1.0.i686-linux-gnu-cxx03.tar.gz"
 [[Qemu]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3be6a66912b2b085e83c72c1230d7a8ed4f78c89"
+git-tree-sha1 = "57aaccd22bbd267669bb3f689d109f69fcfc2e6a"
 libc = "glibc"
 os = "linux"
 
     [[Qemu.download]]
-    sha256 = "a9aa5f035851547dcf07cff7a9ac5d8b0c93c778d2bfdfd3d0a8cc2ae7ad892c"
-    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v6.2.0+0/Qemu.v6.2.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "4ae551134414c0453941e0423e3b76e7ce0181bf78e89f77023f5d929f54faaa"
+    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v7.1.0+0/Qemu.v7.1.0.i686-linux-gnu-cxx11.tar.gz"
 [[Qemu]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d16bac81eaf45509117ac7940e10f5dfb577cc5"
+git-tree-sha1 = "cce632fcca3db2bc7ffb5159a7b59870e0b36c41"
 libc = "glibc"
 os = "linux"
 
     [[Qemu.download]]
-    sha256 = "82f3219e970f879fb9675558d3326cdd64ff1e00c140895e7867305f5c159ba0"
-    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v6.2.0+0/Qemu.v6.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8d6cc7f0b9532c2cd160f245c22c7d00488a419b52ed8b9fce8d4053da0d63ae"
+    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v7.1.0+0/Qemu.v7.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[Qemu]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6282f849ad6cf4f45444d65df6eee2b966a541f6"
+git-tree-sha1 = "a0dcc958dbeafd1a7432abef8b6bb5af0f72675d"
 libc = "glibc"
 os = "linux"
 
     [[Qemu.download]]
-    sha256 = "6b971b2c839af673c92a7c12e1b07fd3433bd7ed02ac536cdf80778ead1f8456"
-    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v6.2.0+0/Qemu.v6.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "37e5ccbb5df61070f6153ca8efb8968805dbd9f5059ea279397cc0337089e32e"
+    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v7.1.0+0/Qemu.v7.1.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Qemu]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9d44173746918ba567efc78074e8daee891ba4e"
+git-tree-sha1 = "23814b9ad32d3cf4ca97cfb94c4554cd66783601"
 libc = "musl"
 os = "linux"
 
     [[Qemu.download]]
-    sha256 = "0952725a4671b1ecdbd7730f8fd90b2c922bef4516803c802bf6e443aeb44478"
-    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v6.2.0+0/Qemu.v6.2.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "be5bfc83bffe182112598d2801771c64436614311f02e294efd88afc9f5bf21b"
+    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v7.1.0+0/Qemu.v7.1.0.x86_64-linux-musl-cxx03.tar.gz"
 [[Qemu]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2af1c6bd6a80da4b1eecaefbd0d8273f4234ec91"
+git-tree-sha1 = "735179b5dca27f32aa15c05724b81c0058c6875d"
 libc = "musl"
 os = "linux"
 
     [[Qemu.download]]
-    sha256 = "7a417846d1ca318f93b847f0e0e1900d1675430283ea53ded4fb992633126670"
-    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v6.2.0+0/Qemu.v6.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a8e197ef548446d86e442823b1ec953f986864e5d8a0c2f951ff855eb3088745"
+    url = "https://github.com/JuliaBinaryWrappers/Qemu_jll.jl/releases/download/Qemu-v7.1.0+0/Qemu.v7.1.0.x86_64-linux-musl-cxx11.tar.gz"
